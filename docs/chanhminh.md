@@ -1,4 +1,10 @@
-# Nguyen Chanh Minh
+---
+layout: doc
+author: Nguyen Chanh Minh
+title: Những Mùa Gặp Lại
+---
+
+# Những Mùa Gặp Lại
 
 Mới đó mà cuộc hội ngộ của lớp C3 đã dần lùi về quá khứ gần 20 ngày rồi! Cuộc gặp gỡ ấy tuy không dài nhưng đủ để đưa mỗi người trở về với một khoảnh thanh xuân của chính mình. Đến hôm nay, những cảm xúc thật khó diễn tả thành lời ấy vẫn còn nguyên vẹn trong tôi.
 

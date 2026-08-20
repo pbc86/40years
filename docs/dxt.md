@@ -1,4 +1,5 @@
 ---
+layout: doc
 title: Cảm xúc sau 40 năm ngày họp lớp
 author: Dinh Xuan Truc
 ---
