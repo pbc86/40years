@@ -26,5 +26,5 @@ Ngạc nhiên nhất vẫn là các bạn nữ, vẫn trẻ trung tính nghịch
 
 Rời buổi họp lớp, trong lòng mình vẫn bồi hồi, lưu luyến. Cuộc gặp gỡ ấy không chỉ giúp chúng mình sống lại một thời thanh xuân đẹp đẽ mà còn nhắc mình biết trân trọng hiện tại. Bốn mươi năm có thể làm con người thay đổi, nhưng không thể làm phai nhạt những ký ức và tình bạn chân thành. Buổi họp lớp sẽ mãi là một kỷ niệm đẹp, để mỗi lần nhớ lại, mình đều thấy lòng mình ấm áp, vui vẻ và hạnh phúc.
 
-
+#### Đinh Xuân Trực
  

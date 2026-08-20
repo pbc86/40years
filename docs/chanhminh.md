@@ -57,3 +57,5 @@ Các bạn giữ gìn sức khỏe, giữ mãi tình bạn đẹp này nhé! Và
 Yêu thương tất cả các bạn!
 
 Sài Gòn, ngày 22 tháng 7 năm 2026.
+
+#### Nguyễn Chánh Minh
