@@ -20,7 +20,7 @@ Cái môi dày của thằng Hải thì còn ngon lành, đáng giá,, chứ cá
  
 Riêng cái bộ râu của thằng Kẽm thì ôi thôi còn đâu là kì quan nữa,,, chắc nó ham hố dùng để câu mấy em nhiều quá nên bị vặt sạch trơn,,, mất tiêu dấu vết,,, hic hic,,,.
 
-Chỉ có thằng Nam teo là vẫn còn sức hấp dẫn nhiều nhất vì nó cất giữ cả một cái tủ nụ cười,,, đứa nào muốn cười kiểu gì thì cứ ghẹo nó là thế nào cũng được cười no bụng,,, kekeke
+Chỉ có thằng Nam tèo là vẫn còn sức hấp dẫn nhiều nhất vì nó cất giữ cả một cái tủ nụ cười,,, đứa nào muốn cười kiểu gì thì cứ ghẹo nó là thế nào cũng được cười no bụng,,, kekeke
 
 Ngạc nhiên nhất vẫn là các bạn nữ, vẫn trẻ trung tính nghịch như mới hôm qua còn đến lớp, ko hiểu sao các bạn ấy trẻ hoài , trẻ hoài,,, sáng sớm đã thấy các bạn chạy thể dục rồi, còn bạn Hiếu, Huyền, Dung bơi ra thiệt là xa ,,, còn luyện giọng ngoài biển nữa chứ,,, thiệt là bất ngờ,.
 
