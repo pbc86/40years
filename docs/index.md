@@ -27,6 +27,10 @@ features:
 
 # Những trang ký ức – 40 năm gặp lại
 
+---
+
+
+
 Sau 40 năm, chúng ta lại có dịp ngồi bên nhau, kể chuyện ngày xưa, nhắc tên những người bạn cũ và cùng lật lại những trang ký ức tưởng đã nằm yên đâu đó trong mỗi người.
 
 Sau cuộc hội ngộ, những cảm xúc ấy vẫn tiếp tục được viết ra và chia sẻ rải rác trên Facebook, Zalo và nhiều nơi khác. Có những bài viết thật hay, những câu chuyện thật cảm động, những tấm ảnh tưởng như bình thường mà bỗng trở nên vô cùng quý giá khi nhìn lại sau 40 năm.
