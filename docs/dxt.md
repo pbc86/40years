@@ -13,8 +13,6 @@ Buổi gặp mặt không chỉ là dịp ôn lại kỷ niệm mà còn là cơ
 
 Mình chợt nghĩ, thời gian có thể làm con người thay đổi, nhưng không thể xóa đi những tình cảm chân thành đã được vun đắp bằng sự sẻ chia và tin yêu. Tình bạn giống như một ngọn lửa nhỏ, càng đi qua năm tháng càng trở nên ấm áp nếu được gìn giữ bằng sự quan tâm và nhớ thương. Chính vì thế, mỗi cuộc gặp gỡ sau bao năm xa cách đều trở nên quý giá hơn bao giờ hết.
 
-Rời buổi họp lớp, trong lòng mình vẫn bồi hồi, lưu luyến. Cuộc gặp gỡ ấy không chỉ giúp chúng mình sống lại một thời thanh xuân đẹp đẽ mà còn nhắc mình biết trân trọng hiện tại. Bốn mươi năm có thể làm con người thay đổi, nhưng không thể làm phai nhạt những ký ức và tình bạn chân thành. Buổi họp lớp sẽ mãi là một kỷ niệm đẹp, để mỗi lần nhớ lại, mình đều thấy lòng mình ấm áp, vui vẻ và hạnh phúc.
-
 Nhìn Bảo đại ở trần tắm biển, lũ bạn ngạc nhiên khi thấy nguy cơ kì quan một thời của c3 bị mai một,,, do cái gù của nó đâu mất tiêu,,, hông biết đứa nào thiếu mồi nướng nhậu hay ai đó xài đồ hao quá,,, kkk
 
 Cái môi dày của thằng Hải thì còn ngon lành, đáng giá,, chứ cái lổ tai thằng Chương cũng bị lấp gần kín mất tiêu,,,
@@ -24,5 +22,8 @@ Riêng cái bộ râu của thằng Kẽm thì ôi thôi còn đâu là kì quan
 Chỉ có thằng Nam teo là vẫn còn sức hấp dẫn nhiều nhất vì nó cất giữ cả một cái tủ nụ cười,,, đứa nào muốn cười kiểu gì thì cứ ghẹo nó là thế nào cũng đui75c cười nó bụng,,, kekeke
 
 Ngạc nhiên nhất vẫn là các bạn nữ, vẫn trẻ trung tính nghịch như mới hôm qua còn đến lớp, ko hiểu sao các bạn ấy trẻ hoài , trẻ hoài,,, sáng sớm đã thấy các bạn chạy thể dục rồi, còn bạn Hiếu, Huyền, Dung bơi ra thiệt là xa ,,, còn luyện giọng ngoài biển nữa chứ,,, thiệt là bất ngờ,.
- 
+
+Rời buổi họp lớp, trong lòng mình vẫn bồi hồi, lưu luyến. Cuộc gặp gỡ ấy không chỉ giúp chúng mình sống lại một thời thanh xuân đẹp đẽ mà còn nhắc mình biết trân trọng hiện tại. Bốn mươi năm có thể làm con người thay đổi, nhưng không thể làm phai nhạt những ký ức và tình bạn chân thành. Buổi họp lớp sẽ mãi là một kỷ niệm đẹp, để mỗi lần nhớ lại, mình đều thấy lòng mình ấm áp, vui vẻ và hạnh phúc.
+
+
  
