@@ -6,6 +6,11 @@ title: Những Mùa Gặp Lại
 
 # Những Mùa Gặp Lại
 
+*Tác giả: Nguyễn Chánh Minh*
+
+---
+
+
 Mới đó mà cuộc hội ngộ của lớp C3 đã dần lùi về quá khứ gần 20 ngày rồi! Cuộc gặp gỡ ấy tuy không dài nhưng đủ để đưa mỗi người trở về với một khoảnh thanh xuân của chính mình. Đến hôm nay, những cảm xúc thật khó diễn tả thành lời ấy vẫn còn nguyên vẹn trong tôi.
 
 Quả thật, cuộc sống luôn bị bủa vây bởi bao bộn bề. Cơm áo gạo tiền đôi khi khiến chúng ta ít có dịp gặp nhau. Có những người, kể từ ngày rời ghế nhà trường, hơn 40 năm sau mới lại được ngồi cạnh bạn bè.

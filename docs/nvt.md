@@ -4,6 +4,11 @@ title: Cảm ơn người nhóm lửa
 author: Nguyen Van Tam
 ---
 # Cảm ơn người nhóm lửa 
+
+*Tác giả: Nguyễn Văn Tâm*
+
+---
+
 Hi @all C3,
 
 Lời đầu tiên tui muốn viết là xin cám ơn các bạn đã hiểu và cảm thông cho tui vì cuộc hội ngộ 40 năm, tui là người đến trễ và về sớm. Bởi vậy phút dạo đầu và kết thúc không hiện diện (hơi uổng). Chỉ trọn vẹn về đêm đầy cảm xúc khó quên nhứt là “nhóm lửa trại”.
