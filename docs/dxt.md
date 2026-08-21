@@ -17,7 +17,9 @@ Buổi gặp mặt không chỉ là dịp ôn lại kỷ niệm mà còn là cơ
 Mình chợt nghĩ, thời gian có thể làm con người thay đổi, nhưng không thể xóa đi những tình cảm chân thành đã được vun đắp bằng sự sẻ chia và tin yêu. Tình bạn giống như một ngọn lửa nhỏ, càng đi qua năm tháng càng trở nên ấm áp nếu được gìn giữ bằng sự quan tâm và nhớ thương. Chính vì thế, mỗi cuộc gặp gỡ sau bao năm xa cách đều trở nên quý giá hơn bao giờ hết.
 
 Nhìn Bảo đại ở trần tắm biển, lũ bạn ngạc nhiên khi thấy nguy cơ kì quan một thời của c3 bị mai một,,, do cái gù của nó đâu mất tiêu,,, hông biết đứa nào thiếu mồi nướng nhậu hay ai đó xài đồ hao quá,,, kkk
+
 ![baodai](/baodai.jpeg)
+
 Cái môi dày của thằng Hải thì còn ngon lành, đáng giá,, chứ cái lổ tai thằng Chương cũng bị lấp gần kín mất tiêu,,,
  
 Riêng cái bộ râu của thằng Kẽm thì ôi thôi còn đâu là kì quan nữa,,, chắc nó ham hố dùng để câu mấy em nhiều quá nên bị vặt sạch trơn,,, mất tiêu dấu vết,,, hic hic,,,.

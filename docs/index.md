@@ -40,7 +40,7 @@ Trang web này được lập với mong muốn gom nhặt và lưu giữ nhữn
 Đây không phải là một trang web của riêng ai, mà là góc ký ức chung của chúng ta.
 
 ![gap nhau](/gapnhau.jpg)
-<p style="text-align: center; font-style: italic;">Dang gai</p>
+<p style="text-align: center; font-style: italic;">Đàng gái</p>
 
 Vì vậy, rất mong các bạn cùng góp thêm cho trang những gì mình đang có: một bài viết đã đăng trên Facebook hay Zalo, một tấm ảnh cũ, một câu chuyện chưa kịp kể, một kỷ niệm về thầy cô, bạn bè, trường lớp… Hay đơn giản chỉ là một vài dòng cảm nghĩ sau ngày hội ngộ.
 
@@ -50,4 +50,4 @@ Vì vậy, rất mong các bạn cùng góp thêm cho trang những gì mình đ
 **“À, ngày ấy chúng mình đã từng như thế…”**
 
 ![dang trai](/dangtrai.jpg)
-<p style="text-align: center; font-style: italic;">Dang trai</p>
+<p style="text-align: center; font-style: italic;">Đàng trai</p>
