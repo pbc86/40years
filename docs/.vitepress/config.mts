@@ -6,11 +6,14 @@ export default defineConfig({
   description: "Hoi ngo lop C3",
   base: "/40years/",
   head: [ 
-    ['link', { rel: 'icon', type: 'image/svg+xml', href: './public/pbc.svg' }]
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: './pbc.png' }]
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: '/pbc.svg',
+    logo: {
+      light: '/pbc.png',
+      dark: '/pbc.jpg'},
+
     nav: [
       { text: 'Home', link: '/' },
     ],
@@ -19,9 +22,9 @@ export default defineConfig({
       {
         text: 'Những trang ký ức',
         items: [
-          { text: 'Nguyễn Chánh Minh', link: '/chanhminh' },
-          { text: 'Đinh Xuân Trực', link: '/dxt' },
-          { text: 'Nguyễn Văn Tâm', link: '/nvt' },
+          { text: 'Những Mùa Gặp Lại', link: '/chanhminh' },
+          { text: 'Cảm xúc sau 40 năm ngày họp lớp', link: '/dxt' },
+          { text: 'Cảm ơn người nhóm lửa', link: '/nvt' },
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' },
         ]

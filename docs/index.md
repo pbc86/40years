@@ -39,6 +39,9 @@ Trang web này được lập với mong muốn gom nhặt và lưu giữ nhữn
 
 Đây không phải là một trang web của riêng ai, mà là góc ký ức chung của chúng ta.
 
+![gap nhau](/gapnhau.jpg)
+<p style="text-align: center; font-style: italic;">Dang gai</p>
+
 Vì vậy, rất mong các bạn cùng góp thêm cho trang những gì mình đang có: một bài viết đã đăng trên Facebook hay Zalo, một tấm ảnh cũ, một câu chuyện chưa kịp kể, một kỷ niệm về thầy cô, bạn bè, trường lớp… Hay đơn giản chỉ là một vài dòng cảm nghĩ sau ngày hội ngộ.
 
 **Các bạn cứ mạnh dạn gửi về — bài dài hay ngắn, cũ hay mới, vui hay buồn đều được trân trọng.** Mỗi đóng góp sẽ giúp trang web thêm phong phú, sinh động và quan trọng hơn, giúp những ký ức của chúng ta không bị trôi đi theo thời gian.
@@ -46,4 +49,5 @@ Vì vậy, rất mong các bạn cùng góp thêm cho trang những gì mình đ
 Để rồi nhiều năm nữa, khi ai đó trong chúng ta lại mở trang này, vẫn có thể mỉm cười và nói:
 **“À, ngày ấy chúng mình đã từng như thế…”**
 
-![gap nhau](./public/gapnhau.jpg)
+![dang trai](/dangtrai.jpg)
+<p style="text-align: center; font-style: italic;">Dang trai</p>

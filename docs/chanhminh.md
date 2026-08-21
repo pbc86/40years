@@ -20,15 +20,15 @@ Có lẽ đó cũng chính là điều đẹp nhất của cuộc hội ngộ l�
 
 Mục tiêu của chúng ta chỉ đơn giản là: "Gặp nhau càng đông càng tốt, phải vui thật vui!" Và thật hạnh phúc khi cuộc gặp không chỉ trọn vẹn mà còn mang đến biết bao điều bất ngờ, đáng yêu và đầy cảm xúc.
 
-![gap nhau](./public/gapnhau.jpg)
+![gap nhau](/gapnhau.jpg)
 
 Đó là bữa tiệc sinh nhật tuổi 60 đầy ấm áp dành cho bạn Tấn Hải. Nhân vật chính xúc động đến run tay, suýt rơi nước mắt khi bất ngờ được cả lớp chúc mừng.
 
-![Tan Hai](./public/tanhai.jpg)
+![Tan Hai](/tanhai.jpg)
 
 Đó là niềm vui khi nhìn thấy cặp đôi Oanh - Hoa sau hơn 40 năm vẫn hạnh phúc viên mãn. (Thương lắm hai ông bà già, họp lớp xong phải vội vã về Nha Trang mừng đầy tháng cháu nội đích tôn.)
 
-![Oanh Hoa](./public/oanhhoa.jpg)
+![Oanh Hoa](/oanhhoa.jpg)
 
 Đó là sự đồng cảm và trân trọng dành cho những người bạn sức khỏe không còn như trước nhưng vẫn cố gắng đồng hành trọn vẹn suốt hai ngày một đêm để được cười, được hát và được sống lại những ngày tuổi trẻ.
 
@@ -37,6 +37,7 @@ Rồi "FC Những Trái Tim Nhân Tạo" ra đời, bộ ngũ "Hải Hùng" cũn
 Lớp mình còn phát hiện ra tài năng người mẫu của Hùng Quẹo với màn phối đồ "quần jean và quần tà lỏn" có một không hai. Bảo Đại cũng chẳng chịu kém cạnh với màn trình diễn quần bơi (hay đúng hơn là quần tà lỏn). Đúng là càng lớn tuổi càng chịu chơi!
 
 Cảm ơn bạn Anh Văn đã cẩn thận giữ chiếc vali chứa "mấy cây vàng", chỉ thật sự yên tâm sau khi hoàn thành màn "phân chia tài sản" cho cả lớp. Món quà của bạn thật tinh tế và đầy ý nghĩa.
+![mon qua](/huyhieu.jpg)
 
 Không ngờ lớp mình lại có nhiều ca sĩ... không chuyên nhưng hát bằng cả trái tim. Ai cũng nồng nàn, đầy cảm xúc, dù đôi lúc chắc cũng làm anh nhạc công phải "toát mồ hôi".
 
