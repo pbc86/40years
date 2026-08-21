@@ -32,6 +32,8 @@ Mục tiêu của chúng ta chỉ đơn giản là: "Gặp nhau càng đông cà
 
 Đó là sự đồng cảm và trân trọng dành cho những người bạn sức khỏe không còn như trước nhưng vẫn cố gắng đồng hành trọn vẹn suốt hai ngày một đêm để được cười, được hát và được sống lại những ngày tuổi trẻ.
 
+![timmay](/timmay.jpeg)
+
 Rồi "FC Những Trái Tim Nhân Tạo" ra đời, bộ ngũ "Hải Hùng" cũng xuất hiện, mang đến biết bao trận cười sảng khoái.
 
 Lớp mình còn phát hiện ra tài năng người mẫu của Hùng Quẹo với màn phối đồ "quần jean và quần tà lỏn" có một không hai. Bảo Đại cũng chẳng chịu kém cạnh với màn trình diễn quần bơi (hay đúng hơn là quần tà lỏn). Đúng là càng lớn tuổi càng chịu chơi!
