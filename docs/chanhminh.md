@@ -49,6 +49,8 @@ Còn rất nhiều câu chuyện vui và những khoảnh khắc đáng yêu kh�
 
 Điều ý nghĩa nhất của chuyến đi là cả lớp đã cùng đến thăm Thầy Sơn. Thầy rất vui khi biết sau hơn 40 năm, tập thể C3 vẫn gắn bó, đoàn kết và yêu thương nhau như ngày nào. Chỉ ánh mắt và nụ cười của Thầy thôi cũng đủ khiến cuộc hội ngộ này trở nên trọn vẹn hơn.
 
+![thayson](/thayson.jpeg)
+
 Xin chân thành cảm ơn Ban liên lạc lớp gồm các bạn Thu Dung, Ngọc Bình, Anh Văn và Lương đã dành rất nhiều thời gian, công sức để chuẩn bị cho cả lớp một cuộc hội ngộ chu đáo, ấm áp và đầy ắp kỷ niệm.
 
 Cảm ơn tất cả các bạn C3 đã dành thời gian trở về. Mỗi người một cuộc sống, một hoàn cảnh, nhưng khi ngồi lại bên nhau, chúng ta vẫn là những cô cậu học trò năm nào.
