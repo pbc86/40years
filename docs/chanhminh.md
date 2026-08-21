@@ -40,7 +40,10 @@ Rồi "FC Những Trái Tim Nhân Tạo" ra đời, bộ ngũ "Hải Hùng" cũn
 
 Lớp mình còn phát hiện ra tài năng người mẫu của Hùng Quẹo với màn phối đồ "quần jean và quần tà lỏn" có một không hai. Bảo Đại cũng chẳng chịu kém cạnh với màn trình diễn quần bơi (hay đúng hơn là quần tà lỏn). Đúng là càng lớn tuổi càng chịu chơi!
 
+![hungqueo](/hungqueo.jpeg)
+
 Cảm ơn bạn Anh Văn đã cẩn thận giữ chiếc vali chứa "mấy cây vàng", chỉ thật sự yên tâm sau khi hoàn thành màn "phân chia tài sản" cho cả lớp. Món quà của bạn thật tinh tế và đầy ý nghĩa.
+
 ![mon qua](/huyhieu.jpg)
 
 Không ngờ lớp mình lại có nhiều ca sĩ... không chuyên nhưng hát bằng cả trái tim. Ai cũng nồng nàn, đầy cảm xúc, dù đôi lúc chắc cũng làm anh nhạc công phải "toát mồ hôi".
