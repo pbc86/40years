@@ -29,7 +29,12 @@ features:
 
 ---
 
+<img src="/40yrs.jpeg" alt="lua trai" width="320" height="320">
 
+<audio controls autoplay playsinline>
+    <source src="/audio/40yr.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+</audio>
 
 Sau 40 năm, chúng ta lại có dịp ngồi bên nhau, kể chuyện ngày xưa, nhắc tên những người bạn cũ và cùng lật lại những trang ký ức tưởng đã nằm yên đâu đó trong mỗi người.
 
