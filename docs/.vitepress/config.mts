@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "PBC 86",
+  title: "40 nam",
   description: "Hoi ngo lop C3",
   base: "/40years/",
   head: [ 
@@ -15,7 +15,7 @@ export default defineConfig({
       dark: '/pbc.jpg'},
 
     nav: [
-      { text: 'Home', link: '/' },
+      { text: 'Home', link: 'https://pbc86.github.io/' },
     ],
 
     sidebar: [
