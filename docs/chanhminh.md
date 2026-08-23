@@ -10,6 +10,12 @@ title: Những Mùa Gặp Lại
 
 ---
 
+<img src="/40yrs.jpeg" alt="lua trai" width="320" height="320">
+
+<audio controls autoplay playsinline>
+    <source src="/audio/40yr.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+</audio>
 
 Mới đó mà cuộc hội ngộ của lớp C3 đã dần lùi về quá khứ gần 20 ngày rồi! Cuộc gặp gỡ ấy tuy không dài nhưng đủ để đưa mỗi người trở về với một khoảnh thanh xuân của chính mình. Đến hôm nay, những cảm xúc thật khó diễn tả thành lời ấy vẫn còn nguyên vẹn trong tôi.
 
