@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "40 nam",
+  title: "40 năm",
   description: "Hoi ngo lop C3",
   base: "/40years/",
   head: [ 
