@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import footnote from 'markdown-it-footnote'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -8,6 +9,11 @@ export default defineConfig({
   head: [ 
     ['link', { rel: 'icon', type: 'image/svg+xml', href: './pbc.png' }]
   ],
+  markdown: {
+    config(md) {
+      md.use(footnote)
+    }
+  },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: {

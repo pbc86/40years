@@ -2,6 +2,10 @@
 
 This page demonstrates some of the built-in markdown extensions provided by VitePress.
 
+Footnotes are supported[^1], including inline ones^[This is an inline footnote.].
+
+[^1]: Definitions can contain **markdown** and are rendered at the end of the page.
+
 ## Syntax Highlighting
 
 VitePress provides Syntax Highlighting powered by [Shiki](https://github.com/shikijs/shiki), with additional features like line-highlighting:

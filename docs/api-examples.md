@@ -6,6 +6,7 @@ outline: deep
 
 <img src="/40yrs.jpeg" alt="lua trai" width="320" height="320">
 
+
 <audio controls autoplay playsinline>
     <source src="/audio/40yr.mp3" type="audio/mpeg">
     Your browser does not support the audio element.
@@ -54,3 +55,7 @@ const { site, theme, page, frontmatter } = useData()
 ## More
 
 Check out the documentation for the [full list of runtime APIs](https://vitepress.dev/reference/runtime-api#usedata).
+
+Footnotes are supported[^1], including inline ones^[This is an inline footnote.].
+
+[^1]: Definitions can contain **markdown** and are rendered at the end of the page.

@@ -5,13 +5,13 @@ title: Khoe hình
 ---
 
 # Khoe hình
-*Tác giả: Nhieu Tác Giả*
+*Tác giả: Nhiều Tác Giả*
 
 Ví dầu cầu ván đóng đinh,  
 Có thằng Trực Kẽm có hình muốn khoe.[^1]  
 Muốn khoe mà hổng chịu khoe,  
 Có người đổ quạu rồi nè Kẽm ơi.  
-Sáng trăng Nam tưởng tối trời  
+Sáng trăng Nam tưởng tối trời, [^2]  
 Ngồi đâu lại để lưng phơi ra ngoài.  
 Cái lưng, đầu tóc,,, ngời ngời  
 Tưởng ai cũng xỉn, có người đô cao.  
@@ -23,7 +23,7 @@ Khổ công tuyển lựa bắp non,
 Bạn Huyền, bạn Hiếu, bạn Loan đau lòng.  
 Bắp khoai nướng ngọn lửa hồng,  
 Loan đừng ăn nữa uổng công tu hành.  
-Tàu dừa phơn phớt gió đàn,  
+Tàu dừa phơn phớt gió đàn,[^3]    
 Vầng trăng chia nửa, tim vàng ghép đôi.  
 Thời gian như đã ngừng trôi,   
 Thanh xuân rực rỡ một thời có nhau.  
@@ -33,7 +33,16 @@ Chia tay say nắng cảm sầu hai nơi.
 ![](/namhoa.jpeg)
 
 [^1]: Ca dao  
-    Ví dầu cầu ván đóng đinh.  
+    *Ví dầu cầu ván đóng đinh.  
     Cầu tre lắt lẻo gập ghình khó đi.  
     Khó đi mẹ dắt con đi.  
-    Con đi trường học. Mẹ đi trường đời.  
+    Con đi trường học. Mẹ đi trường đời.*  
+
+[^2]: Ca dao  
+    *Sáng trăng em nghĩ tối trời,   
+    Em ngồi em để cái sự đời em ra.* 
+
+[^3]: Kiều  
+    *Mành Tương phân phất gió đàn,  
+    Hương gây mùi nhớ, trà khan giọng tình.*
+    
