@@ -5,7 +5,7 @@ title: Khoe hình
 ---
 
 # Khoe hình
-*Tác giả: Nhieu Tac Gia*
+*Tác giả: Nhieu Tác Giả*
 
 Ví dầu cầu ván đóng đinh,  
 Có thằng Trực Kẽm có hình muốn khoe.  
@@ -19,7 +19,7 @@ Trên trời có triệu vì sao,
 Ngồi nhai bắp cháy hồn nào chẳng say.  
 Bập bùng bếp lửa khói bay.  
 Tàu dừa e thẹn, bắp đầy muội than.  
-Khổ công tuyển lựa bắp non, 
+Khổ công tuyển lựa bắp non,  
 Bạn Huyền, bạn Hiếu, bạn Loan đau lòng.  
 Bắp khoai nướng ngọn lửa hồng,  
 Loan đừng ăn nữa uổng công tu hành.  
