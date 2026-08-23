@@ -25,7 +25,7 @@ export default defineConfig({
           { text: 'Những Mùa Gặp Lại', link: '/chanhminh' },
           { text: 'Cảm xúc sau 40 năm ngày họp lớp', link: '/dxt' },
           { text: 'Cảm ơn người nhóm lửa', link: '/nvt' },
-          { text: 'Markdown Examples', link: '/markdown-examples' },
+          { text: 'Khoe hinh', link: '/khoehinh' },
           { text: 'Runtime API Examples', link: '/api-examples' },
         ]
       }
