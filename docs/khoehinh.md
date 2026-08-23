@@ -19,6 +19,8 @@ Trên trời có triệu vì sao,
 Ngồi nhai bắp cháy hồn nào chẳng say.  
 Bập bùng bếp lửa khói bay.  
 Tàu dừa e thẹn, bắp đầy muội than.  
+Nỗi lòng như củ khoai lang  
+Vỏ ngoài có cháy ruột càng thấy ngon.  
 Khổ công tuyển lựa bắp non,  
 Bạn Huyền, bạn Hiếu, bạn Loan đau lòng.  
 Bắp khoai nướng ngọn lửa hồng,  
