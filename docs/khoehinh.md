@@ -8,7 +8,7 @@ title: Khoe hình
 *Tác giả: Nhieu Tác Giả*
 
 Ví dầu cầu ván đóng đinh,  
-Có thằng Trực Kẽm có hình muốn khoe.  
+Có thằng Trực Kẽm có hình muốn khoe.[^1]  
 Muốn khoe mà hổng chịu khoe,  
 Có người đổ quạu rồi nè Kẽm ơi.  
 Sáng trăng Nam tưởng tối trời  
@@ -31,3 +31,9 @@ Gặp nhau ngồi kế bên nhau,
 Chia tay say nắng cảm sầu hai nơi.  
 
 ![](/namhoa.jpeg)
+
+[^1]: Ca dao  
+    Ví dầu cầu ván đóng đinh.  
+    Cầu tre lắt lẻo gập ghình khó đi.  
+    Khó đi mẹ dắt con đi.  
+    Con đi trường học. Mẹ đi trường đời.  
