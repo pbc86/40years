@@ -1,10 +1,11 @@
 ---
 layout: doc
 author: Nhieu Tac Gia
-title: Khoe hình
+title: Khoe lưng
 ---
 
-# Khoe hình
+# Khoe lưng
+
 *Tác giả: Nhiều Tác Giả*
 
 Ví dầu cầu ván đóng đinh,  
@@ -16,9 +17,9 @@ Ngồi đâu lại để lưng phơi ra ngoài.
 Cái lưng, đầu tóc,,, ngời ngời  
 Tưởng ai cũng xỉn, có người đô cao.  
 Trên trời có triệu vì sao,  
-Ngồi nhai bắp cháy hồn nào chẳng say.  
+Ngồi nhai bắp cháy lòng nào chẳng say.  
 Bập bùng bếp lửa khói bay.  
-Tàu dừa e thẹn, bắp đầy muội than.  
+Nướng hơi quá lửa, bắp đầy muội than.  
 Nỗi lòng như củ khoai lang  
 Vỏ ngoài có cháy ruột càng thấy ngon.  
 Khổ công tuyển lựa bắp non,  
@@ -31,6 +32,8 @@ Thời gian như đã ngừng trôi,
 Thanh xuân rực rỡ một thời có nhau.  
 Gặp nhau ngồi kế bên nhau,  
 Chia tay say nắng cảm sầu hai nơi.  
+Vừng trăng từ độ lên ngôi,[^4]  
+Về thăm bến cũ Nam ngồi khoe lưng.
 
 ![](/namhoa.jpeg)
 
@@ -48,3 +51,6 @@ Chia tay say nắng cảm sầu hai nơi.
     *Mành Tương phân phất gió đàn,  
     Hương gây mùi nhớ, trà khan giọng tình.*
     
+[^4]: Lưu Trọng Lư  
+    *Vừng trăng từ độ lên ngôi,  
+    Năm năm bến cũ em ngồi quay tơ.*
