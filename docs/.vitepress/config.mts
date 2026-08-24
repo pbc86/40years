@@ -3,7 +3,7 @@ import footnote from 'markdown-it-footnote'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "PBC86",
+  title: "PBC 86",
   description: "Hoi ngo lop C3",
   base: "/40years/",
   head: [ 
@@ -40,7 +40,7 @@ export default defineConfig({
               { text: 'Những Mùa Gặp Lại', link: '/chanhminh' },
               { text: 'Cảm xúc sau 40 năm ngày họp lớp', link: '/dxt' },
               { text: 'Cảm ơn người nhóm lửa', link: '/nvt' },
-              { text: 'Khoe hình', link: '/khoehinh' },
+              { text: 'Khoe lưng', link: '/khoehinh' },
             ]
           },
           {
