@@ -13,6 +13,8 @@ Hi @all C3,
 
 Lời đầu tiên tui muốn viết là xin cám ơn các bạn đã hiểu và cảm thông cho tui vì cuộc hội ngộ 40 năm, tui là người đến trễ và về sớm. Bởi vậy phút dạo đầu và kết thúc không hiện diện (hơi uổng). Chỉ trọn vẹn về đêm đầy cảm xúc khó quên nhứt là “nhóm lửa trại”.
 
+![luatrai](/luatrai.jpeg)
+
 Trong đêm họp lớp kỷ niệm 40 năm ngày ra trường, tui cảm nhận: Giữa tiếng sóng biển rì rào, làn gió mơn man mang theo vị mặn của biển, thổi qua những mái tóc, gương mặt đã nhuốm màu thời gian, người nhóm lửa lặng lẽ cúi mình châm lên ngọn lửa đầu tiên. 
 
 ![nvt1](/nvt1.jpg)

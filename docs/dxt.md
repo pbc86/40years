@@ -12,6 +12,8 @@ author: Dinh Xuan Truc
 
 Bốn mươi năm là quãng thời gian đủ dài để mái tóc xanh ngày nào đã điểm bạc, để mỗi người đi qua biết bao vui buồn của cuộc sống. Thế nhưng, khi trở lại buổi họp lớp, mọi khoảng cách dường như tan biến. Gặp lại bạn bè cũ, mình thấy trong lòng dâng lên niềm xúc động khó tả, ấm áp, vui vẻ và hạnh phúc.
 
+![nu c3](/nuc3.jpg)
+
 Nhìn những gương mặt thân quen đã in dấu thời gian, mình như được trở về tuổi học trò hồn nhiên, vô tư. Những kỷ niệm về thầy cô, lớp học, những trò nghịch ngợm và những buổi cùng nhau ôn thi lại hiện về trong tiếng cười rộn rã. Dù mỗi người có một cuộc sống riêng, tình bạn năm xưa vẫn gần gũi, chân thành như chưa từng xa cách.
 
 ![trucloan](/trucloan.jpeg)
