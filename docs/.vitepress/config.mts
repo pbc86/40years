@@ -41,6 +41,7 @@ export default defineConfig({
               { text: 'Cảm xúc sau 40 năm ngày họp lớp', link: '/dxt' },
               { text: 'Cảm ơn người nhóm lửa', link: '/nvt' },
               { text: 'Khoe lưng', link: '/khoehinh' },
+              { text: 'Tình cờ chẳng hẹn mà nên', link: '/tinhco' },
             ]
           },
           {
