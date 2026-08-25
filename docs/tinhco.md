@@ -11,7 +11,7 @@ Ngọc Lệ học chung với Bảo đại từ lớp 7, trong lớp hai đứa 
 
 Lần này Ngọc Lệ về Quy Nhơn, gặp bạn cũ thời Đại Học Sư Phạm. 
 
-![Lop toan X](dhspqn.jpeg)
+![Lop toan X](/dhspqn.jpeg)
 
 Từ Quy Nhơn, Thịnh gởi hình cho Bảo coi, có cả Đỗ Hữu Quỳnh, rồi có cả Nguyễn Thị Hòa. Thấy các bạn gặp nhau vui vẻ, mình cũng thấy vui lây, càng thêm tiếc một cơ hội bị bỏ lỡ. 
 
@@ -19,9 +19,16 @@ Từ Quy Nhơn, Thịnh gởi hình cho Bảo coi, có cả Đỗ Hữu Quỳnh,
 
 Sáng 12 tháng 7, Bảo đại đang sắp xếp hành trang, chuẩn bị chia tay mọi người để hôm sau lên đường thì đột ngột nhận tin [Thái Thượng Hoàng Qatar qua đời](https://tuoitre.vn/cha-cua-quoc-vuong-qatar-nguoi-kien-tao-qatar-hien-dai-qua-doi-100260712151137183.htm). Tối hôm đó Quốc Vương Qatar truyền lịnh quốc tang 1 tuần. Trong thời gian quốc tang, các công ty đều tạm đóng cửa.  Bảo đại liền đổi vé máy bay, ở lại Việt Nam thêm vài bữa, mặc kệ đội quân lượm các tút bên Trung Đông thiếu đi một người.
 
-Tình cờ chẳng hẹn mà nên[^1], cũng vì công ty tạm ngừng hoạt động mà Bảo đại mới có dịp gặp vợ chồng Thịnh Lệ cùng nhiều bạn C1 ở Dinh Độc Lập.
+Tình cờ chẳng hẹn mà nên[^1], cũng vì công ty tạm ngừng hoạt động mà Bảo đại mới có dịp gặp vợ chồng Thịnh Lệ cùng nhiều bạn C1 ở Dinh Độc Lập. Mới đầu có Hoàng Trọng Huynh với Huỳnh Thị Mỹ Long.
 
 ![Dinh Doc Lap](/dinhdoclap.jpeg)
+
+Càng về sau thì càng đông vui. Vẫn tiếc là một số bạn vì nhiều lý do mà không ghé được. Bảo đại chắc là người vui nhứt vì tưởng mình là người vô duyên nhưng cuối cùng ở hiền gặp lành. Đúng là:
+
+<p style="text-align: center;">Trời còn để có hôm nay,<br>Tan sương đầu ngõ, vén mây cuối trời.</p>
+
+
+![Dinh Doc Lap dong vui](/dinhdoclap2.jpeg)
 
 Từ trái qua phải:
 Trương Long Tịnh,
@@ -32,7 +39,10 @@ Gia đình Bảo đại,
 Huỳnh Thị Mỹ Long,
 Nguyễn Ngọc Lệ,
 Huỳnh Kim Thịnh,
-Anh Trọng (chồng Tĩnh)
+Anh Trọng (chồng Tĩnh).
+
+Rất phục vợ chồng Thịnh Lệ, về Việt Nam có mấy bữa mà đi được nhiều chỗ quá chừng, công nhận hai ông bà khỏe thiệt. Lần sau có về nhớ báo trước nhen.
+
 
 [^1]: Kiều  
     *Tình cờ chẳng hẹn mà nên,  
