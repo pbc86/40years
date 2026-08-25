@@ -26,7 +26,6 @@ Nguyễn Ngọc Lệ,
 Huỳnh Kim Thịnh,
 Anh Trọng (chồng Tĩnh)
 
-[^1]: Kiều
-    *Tình cờ chẳng hẹn mà nên,
+[^1]: Kiều  
+    *Tình cờ chẳng hẹn mà nên,  
     Mạt cưa mướp đắng đôi bên một phường*
-    
