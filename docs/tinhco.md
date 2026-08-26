@@ -9,7 +9,7 @@ Ngày 10 tháng 7 năm 2026, Bảo đại nhận tin nhắn `WhatsApp` của Hu�
 
 Ngọc Lệ học chung với Bảo đại từ lớp 7, trong lớp hai đứa hay đấu khẩu với nhau, có lần bị cô chủ nhiệm mắng hai đứa là phường mạt cưa, mướp đắng. Hị hị. Đầu năm lớp 9, Thịnh mới ở Sài Gòn về Cam Ranh, học chung lớp 9.1. Từ đó tự nhiên Ngọc Lệ thùy mỵ hẳn lên, không thèm đấu khẩu với Bảo đại nữa. 
 
-Lần này Ngọc Lệ về Quy Nhơn, gặp bạn cũ thời Đại Học Sư Phạm. 
+Lần này Ngọc Lệ về Quy Nhơn, gặp bạn cũ thời Đại Học Sư Phạm. Lớp Toán X toàn là con trai nên hoa đành lạc giữa rừng gươm.
 
 ![Lop toan X](/dhspqn.jpeg)
 
