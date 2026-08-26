@@ -41,6 +41,8 @@ Nguyễn Ngọc Lệ,
 Huỳnh Kim Thịnh,
 Anh Trọng (chồng Tĩnh).
 
+Nhân tiện mình cũng khoe với con gái là cô Lệ học toán giỏi lắm, qua Mỹ từng làm cho hãng sản xuất dụng cụ y tế hàng đầu thế giới. Hai cô cháu cùng nghề nên coi bộ nói chuyện cũng hợp ý. Bất ngờ hơn nữa là bạn của Thịnh cũng làm chung công ty với con gái mình. Hai chú cháu cũng biết nhau nữa. Tới đây mình thấy mình cũng có duyên ghê gớm, chớ hông phải là vô duyên đâu. 
+
 Rất phục vợ chồng Thịnh Lệ, về Việt Nam có mấy bữa mà đi được nhiều chỗ quá chừng, công nhận hai ông bà khỏe thiệt. Lần sau có về nhớ báo trước nhen.
 
 
