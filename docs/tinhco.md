@@ -5,9 +5,9 @@ date: 2026-08-25
 
 # Tình cờ chẳng hẹn mà nên
 
-Ngày 10 tháng 7 năm 2026, Bảo đại nhận tin nhắn `WhatsApp` của Huỳnh Kim Thịnh mới biết vợ chồng Thịnh Lệ mới về tới Tân Sơn Nhứt. Thịnh - Lệ đang trên đường đi Quy Nhơn, theo kế hoạch là bốn ngày sau mới quay lại Sài Gòn. Đúng là vô duyên thiệt, bốn ngày sau tức là 14 tháng 7, trong khi Bảo đại sắp hết phép, phải lên đường đi lượm các tút bên Trung Đông ngày 13 tháng 7, trước đó một ngày! Tiếc ơi là tiếc, bạn bè ở xa, bay nửa vòng trái đất, đã về tới đây mà không gặp được thì quá vô duyên. 
+Ngày 10 tháng 7 năm 2026, Bảo đại nhận tin nhắn `WhatsApp` của Huỳnh Kim Thịnh mới biết vợ chồng Thịnh Lệ mới về tới Tân Sơn Nhứt. Thịnh - Lệ đang trên đường đi Quy Nhơn, theo kế hoạch là bốn ngày sau mới quay lại Sài Gòn. Bảo đại thấy mình đúng là vô duyên thiệt. Bốn ngày sau tức là 14 tháng 7, trong khi Bảo đại sắp hết phép, phải lên đường đi lượm các tút bên Trung Đông ngày 13 tháng 7, trước đó một ngày! Tiếc ơi là tiếc, bạn bè ở xa, bay nửa vòng trái đất, đã về tới đây mà không gặp được thì quá vô duyên. 
 
-Ngọc Lệ học chung với Bảo đại từ lớp 7, trong lớp hai đứa hay đấu khẩu với nhau, có lần bị cô chủ nhiệm mắng hai đứa là phường mạt cưa, mướp đắng. Hị hị. Đầu năm lớp 9, Thịnh mới ở Sài Gòn về Cam Ranh, học chung lớp 9.1. Từ đó tự nhiên Ngọc Lệ thùy mỵ hẳn lên, không thèm đấu khẩu với Bảo đại nữa. 
+Ngọc Lệ học chung với Bảo đại từ lớp 7, trong lớp hai đứa hay đấu khẩu với nhau, có lần bị cô chủ nhiệm mắng hai đứa là phường mạt cưa, mướp đắng. Hị hị. Đầu năm lớp 10, Thịnh mới ở Sài Gòn về Cam Ranh, học chung lớp 9.1. Từ đó tự nhiên Ngọc Lệ thùy mỵ hẳn lên, không thèm đấu khẩu với Bảo đại nữa. Bải đại với Thịnh tiếp tục làm bạn đồng môn ở Đại học Sư Phạm Kỹ Thuật. 
 
 Lần này Ngọc Lệ về Quy Nhơn, gặp bạn cũ thời Đại Học Sư Phạm. Lớp Toán X toàn là con trai nên hoa đành lạc giữa rừng gươm.
 
