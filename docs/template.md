@@ -16,5 +16,5 @@ const formattedDate = formatDate(frontmatter.value.date)
 
 
 # {{ $frontmatter.title }}  
-Author: {{ $frontmatter.author }}   
+*Tác giả: {{ $frontmatter.author }}*   
 Date: {{ formattedDate }}
