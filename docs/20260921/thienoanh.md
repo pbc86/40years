@@ -15,7 +15,7 @@ const formattedDate = formatDate(frontmatter.value.date)
 </script>
 
 
-# {{ $frontmatter.title }}  
+### {{ $frontmatter.title }}  
 *Tác giả: {{ $frontmatter.author }}*   
 *Ngày: {{ formattedDate }}*
 
@@ -41,4 +41,7 @@ Tụi mình ở lại - vẫn dành nhớ thương.
 
 *Thương nhớ người bạn hiền lành, dễ mến xóm cây me ngày xưa.*
 
-![oanhhoa](../public/oanhhoa.jpg)
+![oanhhoa](../public/oanhhoa.jpg)  
+
+### Lưu bút Thiện Oanh viết cho Thanh Quang C4
+![luubut](./luubut-oanh.png)
