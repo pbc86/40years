@@ -42,6 +42,7 @@ export default defineConfig({
               { text: 'Cảm ơn người nhóm lửa', link: '/nvt' },
               { text: 'Khoe lưng', link: '/khoehinh' },
               { text: 'Tình cờ chẳng hẹn mà nên', link: '/tinhco' },
+              { text: 'Oanh ơi - tụi mình nhớ bạn', link: '/20260921/thienoanh' },
             ]
           },
           {
