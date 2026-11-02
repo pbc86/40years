@@ -17,7 +17,9 @@ const formattedDate = formatDate(frontmatter.value.date)
 
 ### {{ $frontmatter.title }}  
 *Tác giả: {{ $frontmatter.author }}*   
-*Ngày: {{ formattedDate }}*
+*Ngày: {{ formattedDate }}*  
+
+--- 
 
 Tám sáu - ngày ấy xa xôi,  
 Tụi mình chung lớp, chung thời thanh xuân.  

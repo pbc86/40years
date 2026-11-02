@@ -8,32 +8,41 @@ title: Khoe lưng
 
 *Tác giả: Nhiều Tác Giả*
 
+---
+
 Ví dầu cầu ván đóng đinh,  
 Có thằng Trực Kẽm có hình muốn khoe.[^1]  
 Muốn khoe mà hổng chịu khoe,  
-Có người đổ quạu rồi nè Kẽm ơi.  
+Có người đổ quạu rồi nè Kẽm ơi.   
+
 Sáng trăng Nam tưởng tối trời, [^2]  
 Ngồi đâu lại để lưng phơi ra ngoài.  
 Cái lưng, đầu tóc,,, ngời ngời  
 Tưởng ai cũng xỉn, có người đô cao.  
+
 Trên trời có triệu vì sao,  
 Ngồi nhai bắp cháy lòng nào chẳng say.  
 Bập bùng bếp lửa khói bay.  
 Nướng hơi quá lửa, bắp đầy muội than.  
+
 Nỗi lòng như củ khoai lang  
 Vỏ ngoài có cháy ruột càng thấy ngon.  
 Khổ công tuyển lựa bắp non,  
 Bạn Huyền, bạn Hiếu, bạn Loan đau lòng.  
+
 Bắp khoai nướng ngọn lửa hồng,  
 Loan đừng ăn nữa uổng công tu hành.  
 Tàu dừa phơn phớt gió đàn,[^3]    
 Vầng trăng chia nửa, tim vàng ghép đôi.  
+
 Thời gian như đã ngừng trôi,   
 Thanh xuân rực rỡ một thời có nhau.  
 Gặp nhau ngồi kế bên nhau,  
 Chia tay say nắng cảm sầu hai nơi.  
+
 Vừng trăng từ độ lên ngôi,[^4]  
 Về thăm bến cũ Nam ngồi khoe lưng.
+
 
 ![](/namhoa.jpeg)
 
