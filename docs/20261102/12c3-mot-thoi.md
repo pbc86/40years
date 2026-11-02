@@ -17,7 +17,9 @@ const formattedDate = formatDate(frontmatter.value.date)
 
 # {{ $frontmatter.title }}  
 *Tác giả: {{ $frontmatter.author }}*   
-Ngày: {{ formattedDate }}
+*Ngày: {{ formattedDate }}*
+
+---  
 
 
 Ngày xưa, chung một mái trường  
@@ -72,5 +74,7 @@ Một đời thương nhớ, một lần thanh xuân
 Dẫu cho tóc bạc mái đầu,  
 Tình xưa nghĩa cũ trước sau vẹn tròn.  
 
+*Tác giả: {{ $frontmatter.author }}*   
+Ngày: {{ formattedDate }}
 
 ![c3motthoi](./c3motthoi.jpg)
