@@ -21,9 +21,9 @@ Cái lưng, đầu tóc,,, ngời ngời
 Tưởng ai cũng xỉn, có người đô cao.  
 
 Trên trời có triệu vì sao,  
-Ngồi nhai bắp cháy lòng nào chẳng say.  
+Men xưa, rượu cũ, lòng nào chẳng say.  
 Bập bùng bếp lửa khói bay.  
-Nướng hơi quá lửa, bắp đầy muội than.  
+Khoai hơi quá lửa, bắp đầy muội than.  
 
 Nỗi lòng như củ khoai lang  
 Vỏ ngoài có cháy ruột càng thấy ngon.  
