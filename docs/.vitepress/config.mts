@@ -37,6 +37,7 @@ export default defineConfig({
             // Optional: collapse the submenu by default (true) or open (false)
             collapsed: false, 
             items: [
+              { text: 'Đối đáp lượm liền', link: '/20260704/doidapluomlien' },
               { text: 'Những Mùa Gặp Lại', link: '/chanhminh' },
               { text: 'Cảm xúc sau 40 năm ngày họp lớp', link: '/dxt' },
               { text: 'Cảm ơn người nhóm lửa', link: '/nvt' },
@@ -44,7 +45,6 @@ export default defineConfig({
               { text: 'Tình cờ chẳng hẹn mà nên', link: '/tinhco' },
               { text: 'Oanh ơi - tụi mình nhớ bạn', link: '/20260921/thienoanh' },
               { text: '12 C3  một thời …', link: '/20261102/12c3-mot-thoi' },
-              { text: 'Đối đáp lượm liền', link: '/20260704/doidapluomlien' },
 
             ]
           },
