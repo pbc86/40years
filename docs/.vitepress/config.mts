@@ -44,6 +44,7 @@ export default defineConfig({
               { text: 'Tình cờ chẳng hẹn mà nên', link: '/tinhco' },
               { text: 'Oanh ơi - tụi mình nhớ bạn', link: '/20260921/thienoanh' },
               { text: '12 C3  một thời …', link: '/20261102/12c3-mot-thoi' },
+              { text: 'Đối đáp lượm liền', link: '/20260704/doidapluomlien' },
 
             ]
           },
