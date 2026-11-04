@@ -44,7 +44,7 @@ Sớn xơ, sớn xác,,, đạp nhầm cái gai,,,
 
 Kẽm ơi đường hãy còn dài  
 Mau lo xuất phát để mai hẹn rồi.  
-Vé xe đã book sẵn rồi  
+Vé xe đã book xong xuồi  
 Khuya nay họ rước,,, mai ngồi với nhau  
 
 *Tác giả: {{ $frontmatter.author }}*   
@@ -57,6 +57,8 @@ Ngày: {{ formattedDate }}
   <img src= "./hathu.jpg">
   <figcaption>Chí Trung hạ thủ liên hoàn</figcaption>
 </figure>   
+ 
+ ---
 
 <figure style="text-align: center;">
   <img src= "./roanoke.jpeg">
@@ -68,5 +70,13 @@ Ngày: {{ formattedDate }}
 <figure style="text-align: center;">
   <img src= "./hetgahetso.jpg">
   <figcaption>Nam tèo nghe có cà phê  <br>
-Hết ga hết số chạy về Cam Ranh.</figcaption>
+  Hết ga hết số chạy về Cam Ranh.</figcaption>
+</figure>   
+
+---
+
+<figure style="text-align: center;">
+  <img src= "./luumanh.jpg">
+  <figcaption>Bảo đại dở thói lưu manh<br>
+  Bay ba mươi phút kéo chân Nam tèo.</figcaption>
 </figure>   
