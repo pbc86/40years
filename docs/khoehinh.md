@@ -23,10 +23,10 @@ Tưởng ai cũng xỉn, có người đô cao.
 Trên trời có triệu vì sao,  
 Men xưa, rượu cũ, lòng nào chẳng say.  
 Bập bùng bếp lửa khói bay.  
-Khoai hơi quá lửa, bắp đầy muội than.  
+Mải mê nói chuyện, tóc đầy tro than.  
 
 Nỗi lòng như củ khoai lang  
-Vỏ ngoài có cháy ruột càng thấy ngon.  
+Vỏ ngoài sém cháy, ruột càng thơm ngon.  
 Khổ công tuyển lựa bắp non,  
 Bạn Huyền, bạn Hiếu, bạn Loan đau lòng.  
 
