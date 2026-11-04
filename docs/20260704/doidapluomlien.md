@@ -44,11 +44,11 @@ Sớn xơ, sớn xác,,, đạp nhầm cái gai,,,
 
 Kẽm ơi đường hãy còn dài  
 Mau lo xuất phát để mai hẹn rồi.  
-Vé xe đã book xong xuồi  
+Vé xe đã book xong xuôi,  
 Khuya nay họ rước,,, mai ngồi với nhau  
 
 *Tác giả: {{ $frontmatter.author }}*   
-Ngày: {{ formattedDate }}
+*Ngày: {{ formattedDate }}*
 
 ---  
 
